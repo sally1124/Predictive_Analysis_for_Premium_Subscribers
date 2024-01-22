@@ -27,7 +27,7 @@ The dataset has 25 attributes, each offering valuable user behavior and characte
 * tenure / integer / number of months since the user has registered on the website
 
 # Resolution Procedure
-1. Define the business problem: Clearly articulate the business at hand.
-2. Data preprocess: Implement oversampling techniques to address the imbalanced data issue present in the dataset.
-3. Select a proper performance metric: Based on the business problem, we selected AUC as the performance metric.
-4. Build the best model: After exploring various algorithms, the decision tree model achieves the highest performance on the selected metric.
+1. **Define the business problem**: Clearly articulate the business at hand.
+2. **Data preprocess**: Implement oversampling techniques to address the imbalanced data issue present in the dataset.
+3. **Select a proper performance metric**: Based on the business problem, we selected AUC as the performance metric.
+4. **Build the best model**: After exploring various algorithms, the decision tree model achieves the highest performance on the selected metric.
