@@ -27,4 +27,6 @@ The dataset has 25 attributes, each offering valuable user behavior and characte
 * tenure / integer / number of months since the user has registered on the website
 
 # Resolution Procedure
-1. 
+1. Define the business problem 
+2. Select a proper performance metric for model evaluation based on the business problem
+3. Build the best model that achieves the highest performance on the selected metric
